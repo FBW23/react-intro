@@ -1,5 +1,6 @@
-* Little exercise: Create me a Navbar the "React Way"
-    * A note on copy & paste :)
+## Your first React component
+
+* Create me a Navbar the "React Way"
     * Go to Codepen.io => create a new Pen
     * Go to Settings => Tab "JS"
         * Preprocessor: Set "Babel"
@@ -9,5 +10,5 @@
         * Click Save & Close
     * Start coding!
         * Create a little navigation component with three entries
-    * Do NOT use any of these strange "props", just hardcode the three nav entries into your component
+    * Do NOT use these strange "props" (if I introduced you to them). Just hardcode the three nav entries into your component please and send me your pen private on slack
 
