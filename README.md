@@ -1,7 +1,7 @@
 ## Your first React component
 
 * Create me a Navbar the "React Way"
-    * Go to codepen.io/pen to create a new Pen
+    * Go to [codepen.io/pen](codepen.io/pen) to create a new Pen
     * Go to Settings => Tab "JS"
         * Preprocessor: Set "Babel"
         * Add external Scripts
